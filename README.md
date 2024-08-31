@@ -49,14 +49,21 @@ cd DeepSolv-RAG-Task</code></pre>
     <h2>Final Submission 🎯</h2>
     <ul>
         <li><strong>Code Repository:</strong> <a href="https://github.com/soodaryan/DeepSolv-RAG-Task">Link to GitHub repository</a></li>
-        <li><strong>Video Recording:</strong>
-        [![Watch the video](images/Screenshot 2024-08-31 at 8.33.34 PM.png)](https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/video.mp4)
-    /li>
+        <li><strong>Video Recording:</strong> click on the image to view demo
+<!--         [![Watch the video](images/Screenshot 2024-08-31 at 8.33.34 PM.png)](https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/video.mp4) -->
+            <a href = "https://drive.google.com/file/d/1mh2Uk5sNHmLXRD38QyjsIWVQfJADKGcN/view?usp=sharing">
+                <p align="center">
+                <img src="images/Screenshot 2024-08-31 at 8.33.34 PM.png" alt="SignPal Solution" />
+            </p>
+    </li>
     </ul>
     <h2>Notes 📋</h2>
-    <p>Create a .env file and add your OPENAI API KEY to use the chatbot.</p>
-    <p>Ensure you have the required access to APIs and services used in this project.</p>
-    <p>Review the <code>requirements.txt</code> for all dependencies and their versions. 📜</p>
+     <ul>
+        <li>Create a .env file and add your OPENAI API KEY to use the chatbot.</li>
+        <li>Ensure you have the required access to APIs and services used in this project.</li>
+        <li>Review the <code>requirements.txt</code> for all dependencies and their versions.</li>
+        <li>Review the <code>requirements.txt</code> for all dependencies and their versions 📜</li>
+    </ul>
     <h2>Acknowledgments 🙏</h2>
     <p>Thanks to the open-source libraries and tools used in this project, including OpenAI, LlamaIndex, BeautifulSoup, LangChain, and Streamlit.</p>
     <h2>License 📜</h2>
