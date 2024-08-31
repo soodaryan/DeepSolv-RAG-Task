@@ -1,4 +1,4 @@
-#!/Users/aryansood/Github/DeepSolv-RAG-Task/rag_task/bin/python3
+#!/Users/aryansood/Github/deepsolv-task/rag_task/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
