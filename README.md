@@ -29,6 +29,7 @@
         <li><strong>Web Interface:</strong>
             <ul>
                 <li><strong>UI Development:</strong> Created an interactive web UI using Streamlit to allow users to interact with the RAG system seamlessly. 🖥️</li>
+                <li><strong>UI Development:</strong> The chatbot is made to sound like a sales agent who is pursuasive and tries to get the user to buy the product 🖥️</li>
             </ul>
         </li>
     </ol>
