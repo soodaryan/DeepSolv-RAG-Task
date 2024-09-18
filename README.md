@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>DeepSolv RAG Project 🚀</h1>
+    <h1>MutliDocument WebScrapping RAG Project 🚀</h1>
     <h2>Overview 📝</h2>
     <p>This project implements a Retrieval-Augmented Generation (RAG) system with a focus on handling unstructured data and providing a user-friendly interface.</p>
     <h2>Implementation Details 🔧</h2>
