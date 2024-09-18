@@ -36,8 +36,8 @@
     <h2>How to Run 🏃‍♂️</h2>
     <ol>
         <li>Clone the Repository:
-            <pre><code>git clone https://github.com/soodaryan/DeepSolv-RAG-Task.git
-cd DeepSolv-RAG-Task</code></pre>
+            <pre><code>git clone https://github.com/soodaryan/MutliDocument-WebScrapping-RAG.git
+cd RAG-Task</code></pre>
         </li>
         <li>Install Dependencies:
             <pre><code>pip install -r requirements.txt</code></pre>
@@ -49,7 +49,7 @@ cd DeepSolv-RAG-Task</code></pre>
     </ol>
     <h2>Final Submission 🎯</h2>
     <ul>
-        <li>Code Repository: <a href="https://github.com/soodaryan/DeepSolv-RAG-Task">Link to GitHub repository</a></li>
+        <li>Code Repository: <a href="https://github.com/soodaryan/MutliDocument-WebScrapping-RAG">Link to GitHub repository</a></li>
         <li>Video Recording: click on the image to view demo
 <!--         [![Watch the video](images/Screenshot 2024-08-31 at 8.33.34 PM.png)](https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/video.mp4) -->
             <a href = "https://drive.google.com/file/d/1mh2Uk5sNHmLXRD38QyjsIWVQfJADKGcN/view?usp=sharing">
